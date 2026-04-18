@@ -2,21 +2,21 @@
 
 This repository contains my practice programs in Java and JSP.
 
-## 📂 Contents
+## Contents
 - Collections Programs (ArrayList, List, Stack)
 - JDBC Programs (Database Connectivity, PreparedStatement)
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - JDBC
 - MySQL
 
-## ⚙ Requirements
+## Requirements
 - JDK installed
 - MySQL Connector (JDBC)
 
 Download MySQL Connector:
 https://dev.mysql.com/downloads/connector/j/
 
-## 👩‍💻 Author
+## Author
 Manideepika Gali
